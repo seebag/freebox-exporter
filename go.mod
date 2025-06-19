@@ -1,4 +1,4 @@
-module github.com/trazfr/freebox-exporter
+module github.com/seebag/freebox-exporter
 
 go 1.23
 
