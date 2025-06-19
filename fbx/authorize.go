@@ -18,7 +18,7 @@ var (
 			panic(err)
 		}
 		return freeboxAuthorize{
-			AppID:      "com.github.trazfr.fboxexp",
+			AppID:      "com.github.seebag.fboxexp",
 			AppName:    "prometheus-freebox-exporter",
 			AppVersion: "0.0.1",
 			DeviceName: hostname,
