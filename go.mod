@@ -1,6 +1,6 @@
 module github.com/trazfr/freebox-exporter
 
-go 1.23.0
+go 1.23
 
 require (
 	github.com/hashicorp/mdns v1.0.6
